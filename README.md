@@ -3,7 +3,7 @@ buzzquiz
 
 'Buzzfeed style' quiz (Disclaimer: I do not nor have I ever represented buzzfeed, this is simply a genre description)
 
-Currently under development.
+Currently under development. I need to add more detail to how to use this, but you can find a working example @ http://www.cidercraft.com/flavor_profile and all of the necessary working code in this github. If you have any background in js this shouldn't be too hard to follow, but please don't hesitate to reach out to me @ freiberg.brandon@gmail.com for further info :). Happy quizzing.
 
 This quiz will represent the "What _____ are you?" buzz style quizzes inundating the world courtesy of buzzfeed. 
 There are no 'correct' or 'incorrect' answers, rather each answer adds to the previous to create a weighted
